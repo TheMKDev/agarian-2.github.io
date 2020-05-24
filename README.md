@@ -27,3 +27,4 @@ What's new (mostly options):
  - Some small optimizations here-and-there.
  - My Discord name will now be red...
  - Adjusted leaderboard (looks much more like agar.io's leaderboard).
+# MK IS A BOOMER AND HAS A CHODE?
